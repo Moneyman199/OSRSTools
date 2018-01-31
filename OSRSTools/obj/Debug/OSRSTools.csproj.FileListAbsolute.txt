@@ -1,0 +1,9 @@
+D:\Github\OSRSTools\OSRSTools\bin\Debug\OSRSTools.exe.config
+D:\Github\OSRSTools\OSRSTools\bin\Debug\OSRSTools.exe
+D:\Github\OSRSTools\OSRSTools\bin\Debug\OSRSTools.pdb
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.csprojResolveAssemblyReference.cache
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.MainForm.resources
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.Properties.Resources.resources
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.csproj.GenerateResource.Cache
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.exe
+D:\Github\OSRSTools\OSRSTools\obj\Debug\OSRSTools.pdb

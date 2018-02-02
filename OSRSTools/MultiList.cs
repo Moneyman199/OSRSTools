@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace OSRSTools
 {
-    class MultiList
+    public class MultiList
     {
-
+        public string Server { get; set; }
+        public long ResponseTime { get; set; }
+        public int WorldNumber { get; set; } 
     }
 }
